@@ -1,0 +1,3 @@
+python converter.pyy
+    --input_model="C:/archit_3/yolo-trash/yolo_custom_detection/mask_rcnn_trash_0200_030519_large.h5" 
+    --output_model="C:/archit_3/yolo-trash/yolo_custom_detection/model.pb"
